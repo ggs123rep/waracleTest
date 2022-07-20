@@ -1,4 +1,4 @@
-Implemented client server architecture using spring data,spring jdbc,spring security,Spring Rest and used h2(inmemory database)
+Implemented client server architecture using spring data,spring jdbc,spring security,Spring Rest and used h2(inmemory database).Please import this file into sts ide or some other ide and run this as spring boot app or java application
 
 
 http://localhost:8282/h2-console 

@@ -1,4 +1,4 @@
-Implemented client server architecture using spring data,spring jdbc,spring security and used h2(inmemory database)
+Implemented client server architecture using spring data,spring jdbc,spring security,Spring Rest and used h2(inmemory database)
 
 
 http://localhost:8282/h2-console 
